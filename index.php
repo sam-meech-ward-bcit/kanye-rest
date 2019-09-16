@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="kanye/styles.css">
 
   <title>😎</title>
 </head>
@@ -17,7 +17,7 @@
 <p id="quote"></p>
 
 <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-<script src="script.js"></script>
+<script src="kanye/script.js"></script>
   
 </body>
 </html>

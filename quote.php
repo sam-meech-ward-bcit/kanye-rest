@@ -1,4 +1,4 @@
 <?php
 
 header("Content-type: application/json");
-echo '{"quote": "Pulling up in the may bike"}';
+echo '{"quote": "If I got any cooler I would freeze to death"}';
